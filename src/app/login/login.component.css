@@ -1,0 +1,9 @@
+div.login-form {
+  height: 400px;
+  width: 400px;
+  background-color: white;
+  border: beige ridge thick;
+  border-radius: 1em;
+  padding: 1em;
+  margin-top: 20vh
+}
